@@ -32,7 +32,7 @@
   - Remplacer la concatenation par une interpolation
   - Utiliser une autre methode que innerText
 
- ## Utiliser ce dossier comme exemple pour créer votre page
+ ## Etape 3 : Utiliser ce dossier comme exemple pour créer votre page
 
   - Modifier les noms des id et des varaibles pour qu'elles correspondent à votre programme (s'assurer que ca marche toujours :) )
   - Convertir votre programme python en programme JS (Il devrait être dans la fonction "createMessage")
