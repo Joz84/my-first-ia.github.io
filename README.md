@@ -22,12 +22,12 @@ Remarque: Le code JS n'est pas écrit avec les nouvelles normes ES6. Une partie 
   - A quoi sert querySelector ?
   - Quelle est la différence avec getElementById et querySelectorAll ?
   - A quoi sert addEventListener ?
-  - Siter d'autre events pouvant être écoutés ?
+  - Citer d'autre events pouvant être écoutés ?
   - A quoi sert innerText ?
   - Quel est la différence avec innerHTML et InsertAdjacentHTML ?
   - Qu'est que la concatenation ?
   - Quelle est la différence avec l'interpolation ?
-  - Siter la methode qui permet de faire une itération ( elle n'est pas dans le programme )
+  - Citer la methode qui permet de faire une itération ( elle n'est pas dans le programme )
 
  ## Etape 2 : Modification du programme :
 
