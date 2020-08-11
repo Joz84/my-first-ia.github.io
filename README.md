@@ -1,9 +1,17 @@
+ ## Etape 0 : Créer un programme d'IA très basic en python :
+  - Créer un programme qui pause une question à l'utilisateur et en fonction de la réponse revoie un message prédéfini. Le programme doit exactement inclure:
+  - Au moins une déclaration de variable
+  - Un tableau (array)
+  - Une itération
+  - Une condition (if ...)
+
  ## Etape 1 : Quizz :
 
   - A quoi sert console.log ?
   - A quoi sert var ?
   - Quelle est la différence avec const et let ?
   - Comment définir une fonction en JS ?
+  - Quelle est la nouvelle syntaxe ?
   - A quoi sert document ?
   - Quelle est la différence avec window ?
   - A quoi sert querySelector ?
@@ -19,6 +27,7 @@
  ## Etape 2 : Modification du programme :
 
   - Remplacer les "var" par les bons mots
+  - Ecrire la fonction avec la nouvelle syntaxe
   - Utiliser une autre methode que querySelector
   - Remplacer la concatenation par une interpolation
   - Utiliser une autre methode que innerText
