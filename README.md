@@ -6,14 +6,14 @@
   - Une condition (if ...)
 
  ## Etape 1 : Quizz :
-
+Remarque: Le code JS n'est pas écrit avec les nouvelles normes ES6. Une partie des questions consistent à voir la différence entre les deux syntaxe. 
   - A quoi sert console.log ?
   - A quoi sert var ?
   - Quelle est la différence avec const et let ?
   - Comment définir une fonction en JS ?
-  - Quelle est la nouvelle syntaxe ?
-  - A quoi sert document ?
-  - Quelle est la différence avec window ?
+  - Quelle est la nouvelle syntaxe d'une fonction en ES6 ?
+  - A quoi sert "document" ?
+  - Quelle est la différence avec "window" ?
   - A quoi sert querySelector ?
   - Quelle est la différence avec getElementById et querySelectorAll ?
   - A quoi sert addEventListener ?
