@@ -45,7 +45,7 @@ Remarque: Le code JS n'est pas écrit avec les nouvelles normes ES6. Une partie 
 
  ## Etape 4 : Mettre en ligne sur GitHhub
 
-  - Sassurer que le nom du dossier finisse par ".github.io" (ca vous simplifiera la vie pour la suite :) )
+  - S'assurer que le nom du dossier finisse par ".github.io" (ca vous simplifiera la vie pour la suite :) )
   - Initialiser git sur ce projet
   - Mettre ce projet sur github
   - Mettre ce projet en ligne accessible à tous
