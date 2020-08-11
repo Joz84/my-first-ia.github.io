@@ -1,3 +1,8 @@
+ # Initiation JS 
+ L'objectif de cet atelier est de se familiariser avec le langage Java Script en vue de manipuler simplement le DOM.
+ Il consiste à comprendre comment est construite la page suivante : https://joz84.github.io/my-first-ia.github.io/
+ Tout le code est mis à disposition et notemment le code JS situé dans le fichier https://github.com/Joz84/my-first-ia.github.io/blob/master/js/application.js.
+ 
  ## Etape 0 : Créer un programme d'IA très basic en python :
   - Créer un programme qui pause une question à l'utilisateur et en fonction de la réponse revoie un message prédéfini. Le programme doit exactement inclure:
   - Au moins une déclaration de variable
