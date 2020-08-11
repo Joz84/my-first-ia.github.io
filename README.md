@@ -1,8 +1,8 @@
  ## Etape 1 : Quizz :
 
   - A quoi sert console.log ?
-  - A quoi sert const ?
-  - Quelle est la différence avec var et let ?
+  - A quoi sert var ?
+  - Quelle est la différence avec const et let ?
   - Comment définir une fonction en JS ?
   - A quoi sert document ?
   - Quelle est la différence avec window ?
