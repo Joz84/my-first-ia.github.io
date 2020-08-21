@@ -2,21 +2,40 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My first IA</title>
+  <title>Github repos</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-  <h1>Mon 1er site d'IA</h1>
-  <h2>Nombre de réponses : <span id="counter">0</span></h2>
+  <div class="container pt-5">
+    <h1 class="m-5">Les Repos Github de Jojo</h1>
+    <div class="graph-box bg-light border mb-5">
+      <div class="border-bottom p-3">
+        1er graphique
+      </div>
+      <div class="graph p-3">
+        Mon 1er graph
+      </div>
+    </div>
 
-  <form action="#" id="my-form">
-    <input type="text" id="user-answer">
-    <input type="submit">
-  </form>
+    <div class="graph-box bg-light border mb-5">
+      <div class="border-bottom p-3">
+        2eme graphique
+      </div>
+      <div class="graph p-3 d-none">
+        Mon 2eme graph
+      </div>
+    </div>
 
-  <div id="ia-message"></div>
+  </div>
 
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/data.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  <script src="https://code.highcharts.com/modules/accessibility.js"></script>
   <script src="js/application.js"></script>
 </body>
 </html>
